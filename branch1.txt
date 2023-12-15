@@ -1,0 +1,3 @@
+This file is from branch 1
+
+- This is commit 1 text
