@@ -3,3 +3,4 @@ This file is from branch 1
 - This is commit 1 text
 - This is from commit 2 text
 - Continuenig my development in branch1 while there are development going on main
+- continued development after rebase
